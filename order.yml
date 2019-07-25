@@ -1,1 +1,4 @@
-jjjj
+server:
+ port: 9102  
+env:
+ list
